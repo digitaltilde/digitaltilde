@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @digitaltilde, aka Matilda
-- 🌱 I’m currently learning front-end web development, with just a sprinkle of back-end for good measure. Self-taught and new to code, so bear with me.
+- 🌱 I’m currently learning front-end web development, with a sprinkle of back-end for good measure. Self-taught and new to code, so bear with me.
 - 📫 You can reach me at matildaknarr@gmail.com with inquiries!
 
 <!---
